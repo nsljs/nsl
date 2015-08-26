@@ -1,5 +1,5 @@
 # NSL
-Node Standard Library.
+[Node](http://nodejs.org) Standard Library.
 
 [nsl.io](http://nsl.io)
 
