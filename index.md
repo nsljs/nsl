@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Node Standard Library.
+[Node](http://nodejs.org) Standard Library.
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
