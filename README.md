@@ -1,8 +1,6 @@
 # NSL
 [Node](http://nodejs.org) Standard Library.
 
-[nsl.io](http://nsl.io)
-
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
   [![Linux Build][travis-image]][travis-url]
