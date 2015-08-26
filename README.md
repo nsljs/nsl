@@ -16,8 +16,6 @@ $ npm install nsl
 ## License
   [MIT](LICENSE)
 
-[![Build Status](https://travis-ci.org/nsljs/nsl.svg?branch=master)](https://travis-ci.org/nsljs/nsl)
-
 [npm-image]: https://img.shields.io/npm/v/nsl.svg
 [npm-url]: https://npmjs.org/package/nsl
 [downloads-image]: https://img.shields.io/npm/dm/nsl.svg
