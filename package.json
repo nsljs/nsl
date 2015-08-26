@@ -1,0 +1,23 @@
+{
+  "name": "nsl",
+  "version": "0.1.0",
+  "description": "Node Standard Library.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsljs/nsl.git"
+  },
+  "keywords": [
+    "node",
+    "standard",
+    "std",
+    "library",
+    "lib"
+  ],
+  "author": "nsljs <hello.nsljs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsljs/nsl/issues"
+  },
+  "homepage": "http://nsl.io"
+}
