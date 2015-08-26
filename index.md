@@ -15,7 +15,7 @@ $ npm install nsl
 ```
 
 ## License
-  [MIT](LICENSE)
+  [MIT](LICENSE.md)
 
 [npm-image]: https://img.shields.io/npm/v/nsl.svg
 [npm-url]: https://npmjs.org/package/nsl
