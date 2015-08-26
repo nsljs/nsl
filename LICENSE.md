@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /LICENSE.md
+permalink: /LICENSE/
 ---
 # The MIT License (MIT)
 
