@@ -7,3 +7,6 @@ Node Standard Library.
 ```bash
 $ npm install nsl
 ```
+
+## License
+  [MIT](LICENSE)
