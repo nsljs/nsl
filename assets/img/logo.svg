@@ -1,0 +1,28 @@
+<?xml
+  version="1.0"
+  encoding="utf-8"?>
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  x="0px"
+  y="0px"
+  width="520px"
+  height="600px"
+  viewBox="0 0 520 600">
+  <g
+    transform="translate(20,20)"
+    style="fill:none;stroke:#f39c12;stroke-linejoin:round;stroke-linecap:round;">
+    <path
+      style="fill:#f39c12;stroke-width:40px;"
+      d="M 240 0 L 480 140 L 480 420 L 240 560 L 0 420 L 0 140 Z"/>
+    <g
+      style="stroke:#ffffff;stroke-width:20px;">
+      <path
+        d="M 240 120 L 377 200 L 240 280 L 103 200 Z"/>
+      <path
+        d="M 350 264 L 377 280 L 240 360 L 103 280 L 130 264"/>
+      <path
+        d="M 350 344 L 377 360 L 240 440 L 103 360 L 130 344"/>
+    </g>
+  </g>
+</svg>

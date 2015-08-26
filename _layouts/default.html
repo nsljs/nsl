@@ -3,10 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>NSL by nsljs</title>
+    <title>NSL</title>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/github-light.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/font-awesome.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -15,10 +17,18 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>NSL</h1>
+				<h1>
+				  <a href="http://nsl.io">
+				    <img id="logo" src="{{ site.baseurl }}/assets/img/logo.svg" alt="NSL" /> NSL
+				  </a>
+				</h1>
         <p>Node standard library.</p>
 
         <p class="view"><a href="https://github.com/nsljs/nsl">View the Project on GitHub <small>nsljs/nsl</small></a></p>
+        <p class="view"><a href="https://twitter.com/nsljs" title="Follow on Twitter">
+          <i class="fa fa-twitter">@nsljs</i>
+        </a></p>
+
 
 
         <ul>
@@ -28,7 +38,8 @@
         </ul>
       </header>
       <section>
-        <h2>
+      {{content}}
+<!--         <h2>
 <a id="installation" class="anchor" href="#installation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Installation</h2>
 
 <h2>
@@ -46,11 +57,11 @@
 <a id="running-the-build" class="anchor" href="#running-the-build" aria-hidden="true"><span class="octicon octicon-link"></span></a>Running the build</h2>
 
 <h2>
-<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h2>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h2> -->
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/nsljs">nsljs</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Original Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>

@@ -7,6 +7,17 @@ body {
   font-weight:300;
 }
 
+#logo {
+  height: 50px;
+  vertical-align: top;
+}
+header h1 a {
+  color: #222;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 48px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -33,7 +44,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#f39c12;
   font-weight:400;
   text-decoration:none;
 }
