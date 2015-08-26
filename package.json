@@ -1,11 +1,20 @@
 {
   "name": "nsl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node Standard Library.",
-  "main": "index.js",
+  "main": "lib/nsl.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nsljs/nsl.git"
+  },
+  "devDependencies": {
+    "eslint": "1.2.1",
+    "mocha": "2.2.5"
+  },
+  "scripts": {
+    "test": "npm run eslint & npm run mocha",
+    "eslint": "./node_modules/.bin/eslint lib/* test/*",
+    "mocha": "./node_modules/.bin/mocha test/*"
   },
   "keywords": [
     "node",
