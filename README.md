@@ -1,15 +1,9 @@
 # NSL
 Node Standard Library.
+[nsl.io](http://nsl.io)
 
 ## Installation
 
-## Quick start
-
-## Goals
-Some slides.
-
-## Roadmap
-
-## Running the build
-
-##License
+```bash
+$ npm install nsl
+```
