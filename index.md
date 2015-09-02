@@ -8,6 +8,7 @@ layout: default
   [![Linux Build][travis-image]][travis-url]
   [![Windows Build][appveyor-image]][appveyor-url]
   [![Dependency Status][dependency-image]][dependency-url]
+  [![devDependency Status][devDependency-image]][devDependency-url]
 
 *NOTE - NSL is still in an initial development phase!*
 
@@ -61,3 +62,5 @@ $ npm install nsl
 [appveyor-url]: https://ci.appveyor.com/project/nsljs/nsl
 [dependency-image]: https://david-dm.org/nsljs/nsl.svg?style=flat-square
 [dependency-url]: https://david-dm.org/nsljs/nsl
+[devDependency-image]: https://david-dm.org/nsljs/nsl/dev-status.svg?style=flat-square
+[devDependency-url]: https://david-dm.org/nsljs/nsl#info=devDependencies
